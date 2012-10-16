@@ -1,4 +1,3 @@
-
 /**
  * Pinterest
  * 
@@ -10,7 +9,7 @@
  * 
  * @author Oliver Nassar <onassar@gmail.com>
  * @see    <http://github.com/onassar/JS-Pinterest>
- * @see    <http://web.onassar.com/blog/2012/10/12/github-project-js-pinterest/>
+ * @see    <http://web.onassar.com/blog/2012/10/16/github-project-js-pinterest/>
  * @see    <http://pinterest.com/about/goodies/>
  * @see    <http://assets.pinterest.com/js/pinit.js>
  * @note   I didn't make any actual changes to the Pinterest code, just cleaned
