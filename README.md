@@ -16,5 +16,5 @@ Useful if you have ajax content being loaded in, or are creating Pinterest butto
     <!-- Above code will run the Pinterest logic again to turn those buttons into the "magic"/"smart" ones -->
 
 ### More info
-I wrote a write-up on the small extension here:  
+A write-up on the small extension here:  
 <http://web.onassar.com/blog/2012/10/16/github-project-js-pinterest/>
