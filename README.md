@@ -8,6 +8,7 @@ Useful if you have ajax content being loaded in, or are creating Pinterest butto
 
     <script src="https://raw.github.com/onassar/JS-Pinterest/master/Pinterest.js" type="text/javascript"></script>
     <!-- Pinterest embed buttons, defined at http://pinterest.com/about/goodies/, are turned into smart buttons -->
+
     <!-- Now, let's say you load in some data through Ajax that contains Pinterest embed code/buttons -->
     <script type="text/javascript">
         Pinterest.init();
